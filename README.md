@@ -36,4 +36,4 @@ You can also set it in your shell so you don't have to keep passing the flag:
 
 $env:IG_SESSION_ID="YOUR_SESSIONID_COOKIE"
 
-<!-- last-sync: 2026-09-12 -->
+<!-- last-sync: 2026-09-13 -->
